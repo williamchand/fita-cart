@@ -1,4 +1,4 @@
-# fita Cart
+# Fita Cart
 
 ## Description
 This is an implementation of fita cart in Go (Golang) projects.
